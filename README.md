@@ -3,7 +3,7 @@
 ```
 const whoAmI = {
   user: "Lucas Guariglia",
-  role: "Fullstack Software Engineer",
+  role: "Frontend Software Engineer",
   location: "Vancouver, BC",
   work: "PlushCare",
   knowledge: [
