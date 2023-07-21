@@ -3,22 +3,21 @@
 ```
 const whoAmI = {
   user: "Lucas Guariglia",
-  role: "Frontend Software Engineer",
+  role: "Software Engineer",
   location: "Vancouver, BC",
   work: "PlushCare",
   knowledge: [
     "JavaScript",
-    "React",
-    "NodeJS",
-    "Styled-Components",
-    "Redux",
-    "ContextAPI",
     "Typescript",
+    "React",
+    "NextJS",
+    "Python",
+    "Django",
   ],
   hobbies: [
     "Soccer",
     "Basketball",
-    "FIFA 22",
+    "Gaming",
   ],
   ambitions: [
     "Machine Learning",
@@ -30,9 +29,6 @@ const whoAmI = {
 ```
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=2867B2&logo=Linkedin&Color=white)](https://linkedin.com/in/jlguariglia)
-
-
-
 
 <!--
 
